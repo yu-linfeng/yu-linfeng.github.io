@@ -13,5 +13,9 @@
     <title><![CDATA[新博客标题测试]]></title>
     <url>%2F2018%2F04%2F21%2Fhello-world%2F</url>
     <content type="text"><![CDATA[新博客正文标题测试]]></content>
+      <categories>
+        <category>业务</category>
+        <category>金融</category>
+      </categories>
   </entry>
 </search>
